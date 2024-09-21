@@ -1,0 +1,606 @@
+/* main_part */
+
+position: absolute;
+width: 1440px;
+height: 1093px;
+left: 0px;
+top: 0px;
+
+
+
+/* background */
+
+position: absolute;
+width: 1440px;
+height: 1093px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #071629;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #071629;
+
+
+/* Object */
+
+position: absolute;
+width: 1448.15px;
+height: 1055px;
+left: -4.08px;
+top: -66px;
+
+
+
+/* Bitmap */
+
+position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -6.04%;
+bottom: 9.52%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -6.04%;
+bottom: 9.52%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -6.04%;
+bottom: 9.52%;
+
+background: radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.0001) 0%, #071629 100%), #000000;
+background-blend-mode: normal, color;
+
+
+/* Get schooled */
+
+position: absolute;
+height: 151px;
+left: 26.18%;
+right: 26.32%;
+top: calc(50% - 151px/2 - 251px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 151px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* SMILES */
+
+position: absolute;
+height: 20px;
+left: 41.18%;
+right: 55.21%;
+top: calc(50% - 20px/2 - 175.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* GRIN */
+
+position: absolute;
+height: 20px;
+left: 48.89%;
+right: 48.61%;
+top: calc(50% - 20px/2 - 175.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* LAUGH */
+
+position: absolute;
+height: 20px;
+left: 55.35%;
+right: 41.25%;
+top: calc(50% - 20px/2 - 175.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+left: 44.38%;
+right: 44.38%;
+top: 38.33%;
+bottom: 57.64%;
+
+filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+
+
+/* button_background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF71DB;
+border-radius: 22px;
+
+
+/* REGISTER FOR FREE */
+
+position: absolute;
+height: 18px;
+left: 12.35%;
+right: 12.96%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Learn from the pros */
+
+position: absolute;
+height: 40px;
+left: 41.94%;
+right: 39.93%;
+top: calc(50% - 40px/2 + 104.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #FF71DB;
+
+
+
+/* pros */
+
+position: absolute;
+width: 1009px;
+height: 237px;
+left: 217px;
+top: 758px;
+
+
+
+/* pro_4 */
+
+position: absolute;
+left: 74.72%;
+right: 14.86%;
+top: 69.35%;
+bottom: 8.97%;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Henry Hughes */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* « 24h smiles » winne */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image.png);
+
+
+/* pro_3 */
+
+position: absolute;
+left: 54.65%;
+right: 34.93%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Bruce Walters */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Best « Friend Smile */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.06%;
+bottom: 36.71%;
+
+background: url(Image.png);
+
+
+/* pro_2 */
+
+position: absolute;
+left: 35.14%;
+right: 54.44%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Nannie Lawrence */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Best « little smile */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image.png);
+
+
+/* pro_1 */
+
+position: absolute;
+left: 15.07%;
+right: 74.51%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Phillip Massey */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* « Smile of the year */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image.png);
