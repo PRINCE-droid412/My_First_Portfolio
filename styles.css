@@ -1,0 +1,107 @@
+/* Import Google Fonts */
+@import url("https://fonts.googleapis.com/css?family=VT323");
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'VT323', monospace;
+    background-color: #f4f4f4;
+}
+
+.calc {
+    background-color: #a77330;
+    max-width: 100%;
+    width: 360px; /* Default width for smaller devices */
+    margin: 20px auto;
+    border: 1px solid #444;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    padding: 1em;
+}
+
+.header {
+    background-color: #222;
+    padding: 1em;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    border-bottom: 4px solid #555;
+    color: rgb(224, 224, 224);
+}
+
+h2 {
+    margin: 0.5em 0;
+    align-content: left;
+}
+
+input.display {
+    background-color: #928c7c;
+    color: #222;
+    font-size: 1.5rem;
+    width: 90%;
+    border: 1px solid #cbcbcb;
+    padding: 0.5em;
+    text-align: right;
+    border-radius: 5px;
+    margin-top: 0.5em;
+}
+
+.body {
+    padding: 1em 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px; /* Add consistent spacing between buttons */
+    margin-bottom: 10px;
+}
+
+input[type="button"] {
+    background-color: #444;
+    border: 2px solid #444;
+    color: white;
+    font-size: 1.2rem;
+    flex: 1; /* Adjust button size to fill row */
+    height: 50px;
+    margin: 0;
+    border-radius: 5px;
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+input[type="button"]:hover {
+    background-color: #666;
+    transform: scale(1.05);
+}
+
+input[type="button"].clear {
+    background-color: #FE752D;
+}
+
+input[type="button"].equals {
+    background-color: #666;
+}
+
+input[type="button"]:active {
+    outline: none;
+    border-color: white;
+}
+
+/* Responsive Design */
+@media (min-width: 768px) {
+    .calc {
+        max-width: 480px; /* Slightly larger for tablets and desktops */
+    }
+
+    input.display {
+        font-size: 2rem;
+    }
+
+    input[type="button"] {
+        font-size: 1.5rem;
+        height: 60px;
+    }
+}
+p{
+    text-align: center;
+    color: #000000;
+}
